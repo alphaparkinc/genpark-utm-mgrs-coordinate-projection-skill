@@ -1,0 +1,19 @@
+{
+  "name": "genpark-utm-mgrs-coordinate-projection-skill",
+  "version": "1.0.0",
+  "description": "Universal Transverse Mercator (UTM) forward ellipsoidal map projection with central meridian convergence",
+  "category": "Service",
+  "tags": [
+    "mcp",
+    "utm-projection",
+    "map-projections",
+    "transverse-mercator",
+    "coordinate-transform",
+    "gis",
+    "geodesy",
+    "python-standard-library",
+    "agent-skills",
+    "cartography",
+    "spatial-systems"
+  ]
+}
